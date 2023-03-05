@@ -1,0 +1,1 @@
+python detect_count_and_track.py --weights best.pt --conf 0.55 --source pollution.mp4 --view-img --nosave --no-trace
